@@ -5,3 +5,6 @@ h1{
 h3{
     color: green;
 }
+img{
+    border-radius: 50%;
+}
